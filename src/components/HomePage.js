@@ -6,7 +6,7 @@ const HomePage = () => {
   return (
     <>
     <Navbar />
-    <h1 style={{marginTop:'100px'}}> Welcome Home Page</h1>
+    <h1 style={{marginTop:'100px'}}>Welcome Home Page</h1>
     </>
   )
 }
